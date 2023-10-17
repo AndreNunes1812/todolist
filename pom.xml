@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.asn</groupId>
-	<artifactId>todoList</artifactId>
+	<artifactId>todolist</artifactId>
 	<version>1.0.0</version>
 	<name>todoList</name>
 	<description>Gerador de Tarefas</description>
